@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "SistemaAcademico.WebAPI.Controllers.AlunoController",
+    "Method": "Post",
+    "RelativePath": "api/Aluno",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluno",
+        "Type": "SistemaAcademico.Dominio.Aluno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaAcademico.WebAPI.Controllers.AlunoController",
+    "Method": "Get",
+    "RelativePath": "api/Aluno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

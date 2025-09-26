@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\bin\Debug\net8.0\SistemaAcademico.Repositorio.deps.json
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\bin\Debug\net8.0\SistemaAcademico.Repositorio.dll
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\bin\Debug\net8.0\SistemaAcademico.Repositorio.pdb
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\bin\Debug\net8.0\SistemaAcademico.Dominio.dll
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\bin\Debug\net8.0\SistemaAcademico.Dominio.pdb
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.sourcelink.json
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaA.16156877.Up2Date
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.dll
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\refint\SistemaAcademico.Repositorio.dll
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\SistemaAcademico.Repositorio.pdb
+C:\Users\Usuario\source\repos\FullStackRevisao\SistemaAcademico\SistemaAcademico.Repositorio\obj\Debug\net8.0\ref\SistemaAcademico.Repositorio.dll
